@@ -75,7 +75,7 @@
     "lint-staged": "^10.5.4",
     "node-sass": "^5.0.0",
     "prettier": "^2.0.5",
-    "sass-loader": "^11.0.1",
+    "sass-loader": "^12.1.0",
     "url-loader": "^4.1.0",
     "vue-loader": "^15.9.3",
     "vue-template-compiler": "^2.6.11",
