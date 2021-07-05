@@ -71,7 +71,7 @@
     "html-webpack-plugin": "^5.2.0",
     "husky": "^5.1.3",
     "less": "^4.1.1",
-    "less-loader": "^8.0.0",
+    "less-loader": "^10.0.1",
     "lint-staged": "^10.5.4",
     "node-sass": "^5.0.0",
     "prettier": "^2.0.5",
